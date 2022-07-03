@@ -416,6 +416,25 @@ p {
 	}
 
 	.description a {
-		font-size: 1em;
+		font-size: 1.2em;
+	}
+	#regis {
+		width: 35%;
+	}
+	.row .astrid h5{
+		text-align: center;
+	}
+	.astrid p{
+		text-align: center;
+	}
+	.row .zidna h5{
+		text-align: center;
+	}
+	.zidna p{
+		text-align: center;
+	}
+	img, svg{
+		max-width: 50%;
+		height: auto;
 	}
 }
