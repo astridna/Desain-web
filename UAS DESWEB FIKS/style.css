@@ -282,11 +282,17 @@ p {
 	margin-bottom: 0;
 	margin-top: 0;
 }
-.astrid{
-	text-align: right;
-
+.row .astrid h5 {
+    color: white;
+    text-align: right ;
 }
-.zidna{
+.astrid p{
+	text-align: right;
+}
+.row .zidna h5{
+	text-align: left;
+}
+.zidna p{
 	text-align: left;
 }
 .nama{
